@@ -1,0 +1,3 @@
+#!/bin/bash
+g++ -std=c++17 -o verdepguru-check main.cpp
+cp verdepguru-check ~/bin
